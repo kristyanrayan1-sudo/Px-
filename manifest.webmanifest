@@ -1,0 +1,9 @@
+{
+  "name": "PAINEL PX",
+  "short_name": "PAINEL PX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08080a",
+  "theme_color": "#0a0a0c",
+  "description": "Painel independente de configurações para jogadores."
+}
